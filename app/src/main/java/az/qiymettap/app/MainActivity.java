@@ -18,7 +18,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-    private static final String APP_URL = "https://qiymettap-az.hatchable.site";
+    private static final String APP_URL = "https://qiymettap-az.hatchable.site/?v=12";
     private WebView web;
     private ProgressBar progress;
 
